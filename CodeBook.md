@@ -21,6 +21,6 @@ Variables
 
 * uS - unique subjects from Subject
 * nS - number of unique subjects
-* nA - number of activities
+* * nA - number of activities
 * nC - number of columns in TidyData1
 * TidyData2 - Second tidy dataset with average of each variable for each activity and subject
